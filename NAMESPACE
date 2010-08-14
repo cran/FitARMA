@@ -1,0 +1,23 @@
+ ".onLoad" <-
+function(lib, pkg) library.dynam("FitARMA", pkg, lib)
+
+imports("FitAR","lattice","leaps","ltsa")
+
+export(
+"FitARMA",
+"GetFitARMA",
+"ImpulseCoefficientsARMA",
+"InformationMatrixARMA",
+"SimulateGaussianARMA",
+"TacvfARMA",
+"coef.FitARMA",
+"fitted.FitARMA",
+"print.FitARMA",
+"residuals.FitARMA",
+"summary.FitARMA",
+"tccfAR")
+## methods 
+  S3method("coef", "FitARMA")
+  S3method("print", "FitARMA")
+  S3method("residuals", "FitARMA")
+  S3method("summary", "FitARMA")

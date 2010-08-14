@@ -1,0 +1,22 @@
+citHeader("To cite FitARMA in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Faster ARMA maximum likelihood estimation",
+  author       = personList(as.person("A. I. McLeod"),
+                   as.person("Ying Zhang")),
+  journal      = "Computational Statistics & Data Analysis",
+  year         = "2007",
+  volume       = "52",
+  number       = "4",
+  pages       = "2166-2176",
+  url          = "http://dx.doi.org/10.1016/j.csda.2007.07.020",
+
+  textVersion  =
+  paste("A. I. McLeod, Ying Zhang (2007).",
+        "Faster ARMA maximum likelihood estimation",
+        "Computational Statistics & Data Analysis 52(4)",
+        "URL http://dx.doi.org/10.1016/j.csda.2007.07.020")
+)
+
+
+

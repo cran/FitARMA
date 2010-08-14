@@ -1,0 +1,3 @@
+A.I. McLeod andY. Zhang (2008), Faster ARMA maximum likelihood estimation, 
+Computational Statistics & Data Analysis, 52-4, 2166-2176.   
+DOI link: http://dx.doi.org/10.1016/j.csda.2007.07.020
