@@ -18,8 +18,8 @@ Fast exact Gaussian ARMA simultation using C.
 \tabular{ll}{
 Package: \tab FitARMA\cr
 Type: \tab Package\cr
-Version: \tab 1.3\cr
-Date: \tab 2010-08-14\cr
+Version: \tab 1.4\cr
+Date: \tab 2010-12-01\cr
 License: \tab GLP 2.0 or greater\cr
 LazyLoad: \tab yes\cr
 }
