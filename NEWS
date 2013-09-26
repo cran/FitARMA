@@ -1,5 +1,8 @@
 CHANGES IN 'FitARMA' VERSION 1.4 (2010-12-01)
     o    fixed NAMESPACE problem
+CHANGES IN 'FitARMA' VERSION 1.6 (2013-09-27)
+    o    updated NAMESPACE and used generic diff()
+
 
 
 

@@ -1,12 +1,12 @@
-ac5e7ebbd9654faea1fdce6dcf6052cc *DESCRIPTION
-2017312a6f30147d7fbfbe6196bda36c *NAMESPACE
-1c7e75627641946bc688c8058c5e1d58 *NEWS
+503a94020637bc09bdc4ee94620d2e28 *DESCRIPTION
+37bd7eb347f629f0f54f0bcbee00a697 *NAMESPACE
+11abe654e4c525d8a7716f58188501a0 *NEWS
 d1e46b282b3265a0e2fb803a7d59f0a0 *R/FitARMA-internal.R
-591f6f688c2c7f9f18f1f78ca29a5ee7 *R/FitARMA.R
+1adb4388873b4e4a4d53600cdfdb53ae *R/FitARMA.R
 0f1252b0bd28d37d56f74383640e838a *R/GetFitARMA.R
 9d5a9a9addeaeace2f5dee6db4f43199 *R/ImpulseCoefficientsARMA.R
 40ad7995acc9454cf62b7a8d385a9020 *R/InformationMatrixARMA.R
-7f0366a834e12b0acc7e98d7b65e4fa7 *R/SimulateGaussianARMA.R
+0f5de8670902b789b2631a1e37063ee0 *R/SimulateGaussianARMA.R
 de91720b4094c5cf3bdb90d744e9dc79 *R/TacvfARMA.R
 b918e1bde3fab2c3494ecda2d8d95312 *R/coef.FitARMA.R
 34e552473d30c2cf7052f115b76994ea *R/fitted.FitARMA.R
@@ -15,7 +15,7 @@ b918e1bde3fab2c3494ecda2d8d95312 *R/coef.FitARMA.R
 f55461f6f235fa998f8ee6b5e5b1e3bb *R/summary.FitARMA.R
 cdf615790ccc95c9ef359724e7749423 *R/tccfAR.R
 781c890bb96d2a30267a153c6a5bc7f6 *inst/CITATION
-1b9a6e7c9d2872b9d38a7af7d2f19eda *inst/doc/FasterMLEJuly5.pdf
+b27e821299b85b21f4bb698a50eef7d1 *inst/doc/FasterMLEJuly5.pdf
 4294624f977db0f110b2752b51157793 *inst/doc/cite.txt
 0b67f682a9ee37cee6256220911f2101 *inst/doc/index.html
 6b7a472a22fbdbff4b2b08ddb4f43735 *inst/doc/index_files/colorschememapping.xml
@@ -28,7 +28,7 @@ d86f71dcbb40f094b962a26e835b5cd0 *inst/doc/index_files/filelist.xml
 fee786ecab3ded2c1155cfd7526eaa2d *inst/doc/wsTiming.R
 429ed7f4afbef8b4eb56775e7c4b9d43 *man/FitARMA-package.Rd
 559bfa44c2782053749a8288b8937515 *man/FitARMA.Rd
-76156982c8d92b07146ab994d1b3d8a8 *man/GetFitARMA.Rd
+2c4ecb6aea67deeafc3249d3d3f467a9 *man/GetFitARMA.Rd
 ab29b9ded9a1f2ce8b3fde85e99dd932 *man/ImpulseCoefficientsARMA.Rd
 8bc03099f28a83e63b3ac5b804011ad1 *man/InformationMatrixARMA.Rd
 2bf9b2953e44189cab7856a14be7d7f5 *man/SimulateGaussianARMA.Rd

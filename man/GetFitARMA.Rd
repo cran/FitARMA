@@ -41,7 +41,7 @@ DOI link: http://dx.doi.org/10.1016/j.csda.2007.07.020}
 data(SeriesA)
 z<-SeriesA-mean(SeriesA)
 GetFitARMA(z, 1, 1)
-w<-diff.ts(z, differences=1)
+w<-diff(z, differences=1)
 GetFitARMA(w, 0, 1)
 }
 \keyword{ ts }

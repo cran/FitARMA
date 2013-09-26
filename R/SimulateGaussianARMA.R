@@ -34,11 +34,12 @@ function(phi, theta, n, InnovationVariance=1, UseC=TRUE)
     if (UseC){
         if (!is.loaded("GetSimARMA")){
             message("GetSimARMA not loaded. Trying dyn.load ...")
-            dyn.load("d:/r/2005/faster/SimGA.dll")
+	    return()
+            #dyn.load("d:/r/2005/faster/SimGA.dll")
         }
         beta<-c(phi,theta)
         par<-c(n,p,q)
-        ans<-.C("GetSimARMA",z,a,beta,par,PACKAGE="FitARMA")
+        ans<-.C(GetSimARMA,z,a,beta,par)
         z<-ans[[1]]
     }
     else {

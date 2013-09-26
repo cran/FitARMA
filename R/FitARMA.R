@@ -4,7 +4,7 @@ p<-order[1]
 d<-order[2]
 q<-order[3]
 Z<-z
-if (d > 0) Z<-diff.ts(z, differences=d)
+if (d > 0) Z<-diff(z, differences=d)
 if (demean) 
     mz<-mean(Z)
 else
