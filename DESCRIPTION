@@ -1,6 +1,6 @@
 Package: FitARMA
-Title: FitARMA: Fit ARMA or ARIMA using fast MLE algorithm
-Version: 1.6
+Title: Fit ARMA or ARIMA Using Fast MLE Algorithm
+Version: 1.6.1
 Date: 2013-09-26
 Author: A.I. McLeod
 Maintainer: A.I. McLeod <aimcleod@uwo.ca>
@@ -9,8 +9,8 @@ Description: Implements fast maximum likelihood algorithm for fitting ARMA time 
 Classification/ACM: G.3, G.4, I.5.1
 Classification/MSC: 62M10, 91B84
 License: GPL (>= 2)
-URL: http://www.stats.uwo.ca/faculty/aim
-Packaged: 2013-09-27 14:28:53 UTC; IanMcLeod
+URL: http://fisher.stats.uwo.ca/faculty/aim
+Packaged: 2019-01-04 16:31:51 UTC; hornik
 NeedsCompilation: yes
 Repository: CRAN
-Date/Publication: 2013-09-27 19:29:04
+Date/Publication: 2019-01-04 16:33:55 UTC

@@ -13,8 +13,12 @@ export(
 "residuals.FitARMA",
 "summary.FitARMA",
 "tccfAR")
+
 ## methods 
-  S3method("coef", "FitARMA")
-  S3method("print", "FitARMA")
-  S3method("residuals", "FitARMA")
-  S3method("summary", "FitARMA")
+S3method("coef", "FitARMA")
+S3method("fitted", "FitARMA")
+S3method("print", "FitARMA")
+S3method("residuals", "FitARMA")
+S3method("summary", "FitARMA")
+
+importFrom("stats", "acf", "optim", "rnorm", "toeplitz", "tsp")
